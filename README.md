@@ -24,3 +24,6 @@ You can change transition by changing the reveal transition property in Reveal.i
   				transition:  'default', // default/cube/page/concave/zoom/linear/none
   			});
 ```
+
+After cloning this repo, run the following command:
+`git submodule update --init`
